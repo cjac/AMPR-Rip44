@@ -1,0 +1,15 @@
+MANIFEST
+MANIFEST.SKIP
+ignore.txt
+Changes
+Makefile.PL
+README
+lib/AMPR/Rip44.pm
+bin/rip44d
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+t/todo.t
+t/critic.t
+t/perlcriticrc
