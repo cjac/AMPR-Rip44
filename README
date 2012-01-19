@@ -28,6 +28,10 @@ More information can be found in the ampr-gateways wiki:
     The Rip44d page on the ampr-gateways.org wiki
         http://wiki.ampr-gateways.org/index.php?title=Rip44d
 
+		git repo
+				https://github.com/cjac/AMPR-Rip44
+				git://github.com/cjac/AMPR-Rip44.git
+
     RT, CPAN's request tracker
         http://rt.cpan.org/NoAuth/Bugs.html?Dist=AMPR-Rip44
 
